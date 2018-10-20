@@ -1,5 +1,5 @@
 _repo: The-Arabian-Nights-Entertainments-Volume-01_5612
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Fairy tales'
 - !lcsh 'Folklore -- Arab countries'
 - !lcsh 'Arabs -- Folklore'
+- GITenberg
 title: The Arabian Nights Entertainments - Volume 01
 url: http://www.gutenberg.org/ebooks/5612
